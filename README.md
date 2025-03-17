@@ -16,3 +16,8 @@ This project focuses on developing a **real-time system** to monitor the structu
 
 ---
 
+## 📸 Project Demonstration
+
+<img src="bridge1.jpg" alt="Project Image" width="45%">
+
+<img src="bridge2.jpg" alt="Project Image" width="45%">
